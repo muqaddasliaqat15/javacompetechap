@@ -1,0 +1,13 @@
+.img{
+    width:200px;
+    height:150px;
+    cursor: pointer;
+}
+.bigImage{
+    width:450px;
+    height:300px;
+}
+.zoom{
+    background-color: gray;
+    cursor: pointer;
+}
